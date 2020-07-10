@@ -36,7 +36,7 @@ const Tweet: React.FC = () => {
           </Header>
 
           <Description>
-            Foguete não tm ré
+            Foguete não tem ré
           </Description>
 
           <ImageContent />
