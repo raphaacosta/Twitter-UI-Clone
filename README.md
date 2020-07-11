@@ -43,6 +43,7 @@
 
 # Usage
 
-  To run this project in your machine, clone this repository: 
+  To run this project in your machine:
+  - Clone this repository `git clone https://github.com/raphaacosta/Twitter-UI-Clone.git`
   - Run `npm install` or `yarn install`.
   - Run `npm run start` or `yarn start` and access `https://localhost:3000`.
