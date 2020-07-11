@@ -42,6 +42,7 @@ export const Topside = styled.div`
 export const Logo = styled(Rocketseat)`
   width: 41px;
   height: 41px;
+  align-self: center;
 
   > path {
     fill: var(--twitter);
